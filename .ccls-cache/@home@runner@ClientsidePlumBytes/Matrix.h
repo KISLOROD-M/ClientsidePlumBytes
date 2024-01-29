@@ -28,4 +28,4 @@ public:
     friend std::ostream& operator<<(std::ostream& output, const Matrix& matrix);
 };
 
-#endif // MATRIX_H
+#endif 
